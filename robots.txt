@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ha-tho.github.io/ha-tho//sitemap.xml
+Sitemap: https://ha-tho.github.io/sitemap.xml
