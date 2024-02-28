@@ -9,6 +9,13 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<div class="building-section-wrapper">
+  <div class="building-section-content">
+    <b>Under construction! <br>
+    This website is a work in progress</b>
+  </div>
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
